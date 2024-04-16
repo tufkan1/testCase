@@ -1,0 +1,37 @@
+.standings-box_title {
+    color: blue;
+    text-align: center;
+}
+
+.make-center {
+    text-align: center
+}
+
+.fixtures-box_header {
+    font-weight: bold;
+    text-align: center;
+    background: skyblue;
+}
+
+.weekly-simulate-button {
+    border: none;
+}
+
+.make-full-width {
+    width: 100%;
+}
+
+button.simulate-all-weeks {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+button.reset-all {
+    width: 300px;
+}
+
+.prediction-box_title {
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+}
